@@ -1,5 +1,6 @@
 ## Here, we modify the original code and add in additional variables to make this more complex,
-## while ensuring it runs smoothly.
+## while ensuring it runs smoothly. We then use the code to create graphs of the selective variables:
+## The horizontal ranges (X and Z) and the vertical heights.
 
 import math ## For operations of sin, cos, and pi
 import matplotlib.pyplot as plt ## Used for creating graphs
